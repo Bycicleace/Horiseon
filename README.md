@@ -11,7 +11,7 @@ Rough description of changes made:
 - Added comments to the CSS file.
 
 ## Link to updated site
-[https://Bycicleace.github.io/Horiseon](https://Bycicleace.github.io/Horiseon)
+[https://Bycicleace.github.io/Horiseon-Refactor](https://Bycicleace.github.io/Horiseon-Refactor)
 
 ## Site Preview
 ![Preview of the Web Page](assets/images/preview.jpeg)
